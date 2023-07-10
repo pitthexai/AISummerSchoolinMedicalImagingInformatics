@@ -16,3 +16,20 @@ In this summer school, you will learn -from scratch- how to use advanced compute
 + Sliding Windows and Bounding Boxes in Object Detection
 + Non-max Suppression 
 + YOLO (You Only Look Once) and SSD (Single Shot Detector)
+
+## Target Audiences
+High School Students (grades 11 & 12). 
+
+## Number of Seats
+25 Seats are available
+
+## Organizers
++ Ahmad P. Tafti, PhD, FAMIA
++ Jamie Gramz, MBA
++ Kalyan Sen, PhD
+
+## Instructors
++ Ahmad P. Tafti, PhD, FAMIA
++ Nickolas Littlefield, PhD Students
++ Kyle Buettner, PhD Student
+
