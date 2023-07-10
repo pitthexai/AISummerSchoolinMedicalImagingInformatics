@@ -9,10 +9,10 @@ In this summer school, you will learn -from scratch- how to use advanced compute
 ## Agendas
 + Introduction to Computer Vision
 + Introduction to Deep Learning Computer Vision
-•	Deep Convolutional Neural Networks (CNNs)
-•	Introduction to Object Detection and Localization in Computer Vision 
-•	Introduction to PyTorch
-•	Manual Annotation of Medical Images using the LabelImg Toolset
-•	Sliding Windows and Bounding Boxes in Object Detection
-•	Non-max Suppression 
-•	YOLO (You Only Look Once) and SSD (Single Shot Detector)
++ Deep Convolutional Neural Networks (CNNs)
++ Introduction to Object Detection and Localization in Computer Vision 
++ Introduction to PyTorch
++ Manual Annotation of Medical Images using the LabelImg Toolset
++ Sliding Windows and Bounding Boxes in Object Detection
++ Non-max Suppression 
++ YOLO (You Only Look Once) and SSD (Single Shot Detector)
