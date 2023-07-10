@@ -30,6 +30,6 @@ High School Students (grades 11 & 12).
 
 ## Instructors
 + Ahmad P. Tafti, PhD, FAMIA
-+ Nickolas Littlefield, PhD Students
++ Nickolas Littlefield, PhD Student
 + Kyle Buettner, PhD Student
 
