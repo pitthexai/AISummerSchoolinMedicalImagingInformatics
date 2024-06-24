@@ -8,29 +8,13 @@ Computer vision as a subfield of AI has been around for several years dealing wi
 In this summer school, you will learn -from scratch- how to use advanced computer vision algorithms to tackle the problem of object detection and localization in medical images. We will discuss object detection mechanism(s) in practice with several hands-on-practices starting from manual image annotation to programming and implementation in Python. We, together, will explore what object detection computational vision algorithm is, what is does, and how. The current mini summer camp at the University of Pittsburgh is structured such that in addition to attending lectures, the students will be also working in teams on a project assignment. 
 
 ## Agendas
-+ Introduction to Computer Vision
-+ Introduction to Deep Learning Computer Vision
-+ Deep Convolutional Neural Networks (CNNs)
++ Introduction to AI and Computer Vision
++ Introduction to Deep Learning Computer Vision and Deep Convolutional Neural Networks (CNNs)
 + Introduction to Object Detection and Localization in Computer Vision 
 + Introduction to PyTorch
 + Manual Annotation of Medical Images using the LabelImg Toolset
 + Sliding Windows and Bounding Boxes in Object Detection
 + Non-max Suppression 
 + YOLO (You Only Look Once) and SSD (Single Shot Detector)
-
-## Target Audiences
-High School Students (grades 11 & 12). 
-
-## Number of Seats
-25 Seats are available
-
-## Organizers
-+ Ahmad P. Tafti, PhD, FAMIA
-+ Jamie Gramz, MBA
-+ Kalyan Sen, PhD
-
-## Instructors
-+ Ahmad P. Tafti, PhD, FAMIA
-+ Nickolas Littlefield, PhD Student
-+ Kyle Buettner, PhD Student
++ Liner.ai; Liner is an end-to-end tool for training machine learning models without code 
 
