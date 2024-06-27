@@ -18,3 +18,10 @@ In this summer school, you will learn -from scratch- how to use advanced compute
 + YOLO (You Only Look Once) and SSD (Single Shot Detector)
 + Liner.ai; Liner is an end-to-end tool for training machine learning models without code 
 
+## Link to Download Liner.ai
+
+
+https://liner.ai
+
+
+
