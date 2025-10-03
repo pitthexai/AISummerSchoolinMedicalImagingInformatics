@@ -5,7 +5,7 @@
 - [Description](#description)
 - [Agendas](#agendas)
 - [Acknowledgements](#acknowledgements)
-- [Link to Download Liner.ai](#link-to-download-liner.ai)
+- [Link to Download Liner.ai](#link-to-download-linerai)
 
 
 
