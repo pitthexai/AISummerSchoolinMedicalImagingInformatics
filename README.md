@@ -34,9 +34,8 @@ In this summer school, you will learn -from scratch- how to use advanced compute
 ### AI Summer School Overview Video
 <p align="center">
   <a href="https://www.youtube.com/watch?v=--jPZdjR4-0" target="_blank">
-    <img src="https://img.youtube.com/vi/--jPZdjR4-0/0.jpg" width="480" alt="Pitt AI Summer School 2025"/>
-  </a><br/>
-  <b>AI Summer School Overview Video</b>
+    <img src="figures/AI_SummerSchool_Overview.png" width="800" alt="Pitt AI Summer School 2025"/>
+  </a>
 </p>
 
 ### Acknowledgements
