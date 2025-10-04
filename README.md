@@ -4,8 +4,10 @@
 - [Abstract](#abstract)
 - [Description](#description)
 - [Agendas](#agendas)
+- [AI Summer School Overview Video](#ai-summer-school-overview-video)
 - [Acknowledgements](#acknowledgements)
 - [Link to Download Liner.ai](#link-to-download-linerai)
+
 
 
 
@@ -28,6 +30,14 @@ In this summer school, you will learn -from scratch- how to use advanced compute
 + YOLO (You Only Look Once) and SSD (Single Shot Detector)
 + Liner.ai; Liner is an end-to-end tool for training machine learning models without code
 
+
+### AI Summer School Overview Video
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=--jPZdjR4-0" target="_blank">
+    <img src="https://img.youtube.com/vi/--jPZdjR4-0/0.jpg" width="480" alt="Pitt AI Summer School 2025"/>
+  </a><br/>
+  <b>AI Summer School Overview Video</b>
+</p>
 
 ### Acknowledgements
 <p align="justify">
