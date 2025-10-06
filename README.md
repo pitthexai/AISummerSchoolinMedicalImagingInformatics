@@ -40,7 +40,7 @@ In this summer school, you will learn -from scratch- how to use advanced compute
 
 ### Acknowledgements
 <p align="justify">
-We gratefully acknowledge the <b>Computational Pathology & AI Center of Excellence (CPACE)</b>, the <b>University of Pittsburgh School of Health and Rehabilitation Sciences</b>, and the <b>Pitt Health and Explainable AI Research Laboratory</b> for organizing and supporting the AI Summer School.  
+We gratefully acknowledge the <b>Computational Pathology & AI Center of Excellence (CPACE)</b>, the <b>University of Pittsburgh School of Health and Rehabilitation Sciences</b>, and the <b>IEEE Pittsburgh section</b> for organizing and supporting the AI Summer School.  
 We also extend our appreciation to all the invited speakers, contributors, and our visionary leadership, whose efforts and dedication made this program a success.  
 </p>
 
