@@ -23,7 +23,7 @@ In this summer school, you will learn -from scratch- how to use advanced compute
 + <p align = "justify">Introduction to AI and Computer Vision </p>
 + <p align = "justify">Image Filtering and Shape Analysis </p>
 + <p align = "justify">Introduction to Deep Learning Computer Vision and Deep Convolutional Neural Networks (CNNs) </p>
-+ <p align = "justify">Introduction to Object Detection and Localization in Computer Vision </p>
++ <p align = "justify">Introduction to Object Detection, Object Localization, and Object Segmentation in Computer Vision </p>
 + <p align = "justify">Introduction to PyTorch </p>
 + <p align = "justify">Manual Annotation of Medical Images (ITK-SNAP, Label Studio) </p>
 + <p align = "justify">Object Localization (Sliding Windows, Bounding Boxes, YOLO, SSD) Or Object Segmentation (U-Net, ResNet) </p>
