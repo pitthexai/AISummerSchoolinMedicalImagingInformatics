@@ -28,6 +28,7 @@ In this summer school, you will learn -from scratch- how to use advanced compute
 + <p align = "justify">Manual Annotation of Medical Images (ITK-SNAP, Label Studio) </p>
 + <p align = "justify">Object Localization (Sliding Windows, Bounding Boxes, YOLO, SSD) Or Object Segmentation (U-Net, ResNet) </p>
 + <p align = "justify">Liner.ai; Liner is an end-to-end tool for training machine learning models without code </p>
++ <p align = "justify">Hands-on-Practices and Team Project(s)</p>
 
 
 ### AI Summer School Overview Video
