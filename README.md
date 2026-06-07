@@ -24,10 +24,8 @@ In this summer school, you will learn -from scratch- how to use advanced compute
 + <p align = "justify">Introduction to Deep Learning Computer Vision and Deep Convolutional Neural Networks (CNNs) </p>
 + <p align = "justify">Introduction to Object Detection and Localization in Computer Vision </p>
 + <p align = "justify">Introduction to PyTorch </p>
-+ <p align = "justify">Manual Annotation of Medical Images using the LabelImg Toolset </p>
-+ <p align = "justify">Sliding Windows and Bounding Boxes in Object Detection </p>
-+ <p align = "justify">Non-max Suppression </p>
-+ <p align = "justify">YOLO (You Only Look Once) and SSD (Single Shot Detector) </p>
++ <p align = "justify">Manual Annotation of Medical Images (ITK-SNAP, Label Studio) </p>
++ <p align = "justify">Object Localization (Sliding Windows, Bounding Boxes, YOLO, SSD) Or Object Segmentation (U-Net and ResNet) </p>
 + <p align = "justify">Liner.ai; Liner is an end-to-end tool for training machine learning models without code </p>
 
 
