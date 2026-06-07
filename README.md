@@ -20,7 +20,8 @@
 In this summer school, you will learn -from scratch- how to use advanced computer vision algorithms to tackle the problem of object detection and localization in medical images. We will discuss object detection mechanism(s) in practice with several hands-on-practices starting from manual image annotation to programming and implementation in Python. We, together, will explore what object detection computational vision algorithm is, what is does, and how. The current mini summer camp at the University of Pittsburgh is structured such that in addition to attending lectures, the students will be also working in teams on a project assignment. </p>
 
 ### Agendas
-+ <p align = "justify"> Introduction to AI and Computer Vision </p>
++ <p align = "justify">Introduction to AI and Computer Vision </p>
++ <p align = "justify">Image Filtering and Shape Analysis </p>
 + <p align = "justify">Introduction to Deep Learning Computer Vision and Deep Convolutional Neural Networks (CNNs) </p>
 + <p align = "justify">Introduction to Object Detection and Localization in Computer Vision </p>
 + <p align = "justify">Introduction to PyTorch </p>
