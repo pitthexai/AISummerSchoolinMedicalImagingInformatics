@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Abstract](#abstract)
+- [Program History](#Program-History)
 - [Description](#description)
 - [Agendas](#agendas)
 - [AI Summer School Overview Video](#ai-summer-school-overview-video)
@@ -12,7 +13,34 @@
 
 
 ### Abstract
-<p align = "justify"> Our AI Summer School on AI-Powered Medical Imaging Informatics aims to provide a stimulating and unique opportunity for students in grades 11 and 12 to dive into the fascinating world of artificial intelligence (AI) and its application in medical imaging informatics. This summer school will be held between June 24 and June 28, 2024, at the University of Pittsburgh, organized by the Computational Pathology & AI Center of Excellence (CPACE) within the School of Medicine, plus the School of Health and Rehabilitation Sciences, and IEEE Computer Society in Pittsburgh. </p>
+<p align = "justify"> Our AI Summer School on AI-Powered Medical Imaging Informatics is an annual educational initiative launched in 2024 at the University of Pittsburgh that aims to provide a stimulating and unique opportunity for students in grades 11 and 12 to dive into the fascinating world of artificial intelligence (AI) and its application in medical imaging informatics, computer vision, and healthcare informatics through lectures and hands-on activities. </p>
+
+
+
+### Program History
+
+####2026
+<p align="justify">
+Our AI Summer School on AI-Powered Medical Imaging Informatics aims to provide a stimulating and unique opportunity for students in grades 11 and 12 to dive into the fascinating world of artificial intelligence (AI) and its application in medical imaging informatics. This summer school was held between June 8 and June 12, 2026, at the University of Pittsburgh, organized by the Computational Pathology & AI Center of Excellence (CPACE) within the School of Medicine, plus the School of Health and Rehabilitation Sciences, the Pitt Health + Explainable AI (HexAI) Research Laboratory, and Leidos in Pittsburgh. The program was supported by IEEE Computer Society, Log Cabin Fence, and Humanitarian AI.
+</p>
+</p>
+
+
+#### 2025
+<p align="justify">
+Our AI Summer School on AI-Powered Medical Imaging Informatics aims to provide a stimulating and unique opportunity for students in grades 11 and 12 to dive into the fascinating world of artificial intelligence (AI) and its application in medical imaging informatics. This summer school was held in June 2025 at the University of Pittsburgh, organized by the Computational Pathology & AI Center of Excellence (CPACE) within the School of Medicine, plus the School of Health and Rehabilitation Sciences, the Pitt Health + Explainable AI (HexAI) Research Laboratory, and IEEE Computer Society in Pittsburgh.
+</p>
+
+
+
+#### 2024
+<p align="justify">
+Our AI Summer School on AI-Powered Medical Imaging Informatics aims to provide a stimulating and unique opportunity for students in grades 11 and 12 to dive into the fascinating world of artificial intelligence (AI) and its application in medical imaging informatics. This summer school will be held between June 24 and June 28, 2024, at the University of Pittsburgh, organized by the Computational Pathology & AI Center of Excellence (CPACE) within the School of Medicine, plus the School of Health and Rehabilitation Sciences, and IEEE Computer Society in Pittsburgh.
+</p>
+
+
+
+
 
 
 ### Description
