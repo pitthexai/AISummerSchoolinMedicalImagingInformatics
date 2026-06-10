@@ -62,11 +62,6 @@ In this summer school, you will learn -from scratch- how to use advanced compute
 ### AI Summer School Overview Video
 
 
-#### 2026
-
-
-
-#### 2025
 <p align="center">
   <a href="https://www.youtube.com/watch?v=--jPZdjR4-0" target="_blank">
     <img src="Figures/AI_SummerSchool_Overview_2.png" width="600" alt="Pitt AI Summer School 2025"/>
@@ -88,7 +83,15 @@ We also extend our appreciation to all the invited speakers, contributors, and o
 
 https://liner.ai
 
+<p align="center">
+  <a href="https://www.leidos.com/" target="_blank">
+    <img src="Figures/Leidos-logo.png" alt="Leidos" width="250"/>
+  </a>
+</p>
 
+<p align="center">
+  Supported by Leidos
+</p>
 
 
 <p align="center">
