@@ -60,11 +60,21 @@ In this summer school, you will learn -from scratch- how to use advanced compute
 
 
 ### AI Summer School Overview Video
+
+
+#### 2026
+
+
+
+#### 2025
 <p align="center">
   <a href="https://www.youtube.com/watch?v=--jPZdjR4-0" target="_blank">
     <img src="Figures/AI_SummerSchool_Overview_2.png" width="600" alt="Pitt AI Summer School 2025"/>
   </a>
 </p>
+
+
+
 
 ### Acknowledgements
 <p align="justify">
