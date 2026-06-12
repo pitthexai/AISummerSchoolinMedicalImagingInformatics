@@ -88,35 +88,27 @@ https://liner.ai
 
 <p align="center">
   <a href="https://www.shrs.pitt.edu/" target="_blank">
-    <img src="Figures/shrs.png" width="220" alt="SHRS"/>
+    <img src="Figures/shrs.png" width="150" alt="SHRS"/>
   </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://cpace.pitt.edu/" target="_blank">
-    <img src="Figures/cpace.png" width="220" alt="CPACE"/>
+    <img src="Figures/cpace.png" width="150" alt="CPACE"/>
   </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.leidos.com/" target="_blank">
-    <img src="Figures/Leidos-logo.png" width="180" alt="Leidos"/>
+    <img src="Figures/Leidos-logo.png" width="120" alt="Leidos"/>
   </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://pitthexai.github.io/" target="_blank">
-    <img src="Figures/Pitthexai_logo.png" width="220" alt="HexAI"/>
+    <img src="Figures/Pitthexai_logo.png" width="150" alt="HexAI"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://www.shrs.pitt.edu/">Pitt School of Health and Rehabilitation Sciences</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://cpace.pitt.edu/">Computational Pathology &amp; AI Center of Excellence (CPACE)</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.leidos.com/">Leidos</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://pitthexai.github.io/">Pitt Health + Explainable AI (Pitt HexAI) Research Laboratory</a>
-</p>
-</table>
 
 
 <p align="center">
