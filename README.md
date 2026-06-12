@@ -105,7 +105,23 @@ https://liner.ai
 </p>
 
 
+<p align="left">
+  <a href="https://www.shrs.pitt.edu/" target="_blank">
+    <img src="Figures/shrs.png" alt="SHRS" width="280"/>
+  </a>
 
+  <a href="https://cpace.pitt.edu/" target="_blank">
+    <img src="Figures/cpace.png" alt="CPACE" width="190"/>
+  </a>
+
+  <a href="https://www.leidos.com/" target="_blank">
+    <img src="Figures/Leidos-logo.png" alt="Leidos" width="180"/>
+  </a>
+
+  <a href="https://pitthexai.github.io/" target="_blank">
+    <img src="Figures/Pitthexai_logo.png" alt="HexAI" width="180"/>
+  </a>
+</p>
 
 
 
