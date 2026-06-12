@@ -8,6 +8,7 @@
 - [AI Summer School Overview Video](#ai-summer-school-overview-video)
 - [Acknowledgements](#acknowledgements)
 - [Link to Download Liner.ai](#link-to-download-linerai)
+- [Organized By](Organized-By)
 
 
 
@@ -83,15 +84,39 @@ We also extend our appreciation to all the invited speakers, contributors, and o
 
 https://liner.ai
 
-<p align="center">
-  <a href="https://www.leidos.com/" target="_blank">
-    <img src="Figures/Leidos-logo.png" alt="Leidos" width="250"/>
-  </a>
-</p>
+### Organized By
 
-<p align="center">
-  Supported by Leidos
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://www.shrs.pitt.edu/" target="_blank">
+<img src="Figures/shrs.png" width="220"><br>
+Pitt School of Health and Rehabilitation Sciences
+</a>
+</td>
+
+<td align="center">
+<a href="https://cpace.pitt.edu/" target="_blank">
+<img src="Figures/cpace.png" width="220"><br>
+Computational Pathology & AI Center of Excellence (CPACE)
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.leidos.com/" target="_blank">
+<img src="Figures/Leidos-logo.png" width="220"><br>
+Leidos
+</a>
+</td>
+
+<td align="center">
+<a href="https://pitthexai.github.io/" target="_blank">
+<img src="Figures/Pitthexai_logo.png" width="220"><br>
+Pitt Health + Explainable AI (Pitt HexAI) Research Laboratory
+</a>
+</td>
+</tr>
+</table>
 
 
 <p align="center">
