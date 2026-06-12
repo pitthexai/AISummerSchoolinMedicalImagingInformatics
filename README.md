@@ -88,25 +88,19 @@ https://liner.ai
 
 <p align="center">
   <a href="https://www.shrs.pitt.edu/" target="_blank">
-    <img src="Figures/shrs.png" width="150" alt="SHRS"/>
+    <img src="Figures/shrs.png" alt="SHRS" width="220"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://cpace.pitt.edu/" target="_blank">
-    <img src="Figures/cpace.png" width="150" alt="CPACE"/>
+    <img src="Figures/cpace.png" alt="CPACE" width="220"/>
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.leidos.com/" target="_blank">
-    <img src="Figures/Leidos-logo.png" width="120" alt="Leidos"/>
+    <img src="Figures/Leidos-logo.png" alt="Leidos" width="180"/>
   </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://pitthexai.github.io/" target="_blank">
-    <img src="Figures/Pitthexai_logo.png" width="150" alt="HexAI"/>
+    <img src="Figures/Pitthexai_logo.png" alt="HexAI" width="220"/>
   </a>
 </p>
 
