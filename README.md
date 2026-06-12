@@ -87,25 +87,28 @@ https://liner.ai
 ### Organized By
 
 <p align="center">
-
-  <a href="https://www.shrs.pitt.edu/" target="_blank" style="margin-right:40px;">
-    <img src="Figures/shrs.png" alt="SHRS" width="220"/>
+  <a href="https://www.shrs.pitt.edu/" target="_blank">
+    <img src="Figures/shrs.png" alt="SHRS" width="180"/>
   </a>
 
-  <a href="https://cpace.pitt.edu/" target="_blank" style="margin-right:40px;">
-    <img src="Figures/cpace.png" alt="CPACE" width="200"/>
+  <img src="Figures/spacer.png" width="25"/>
+
+  <a href="https://cpace.pitt.edu/" target="_blank">
+    <img src="Figures/cpace.png" alt="CPACE" width="160"/>
   </a>
 
-  <a href="https://www.leidos.com/" target="_blank" style="margin-right:40px;">
-    <img src="Figures/Leidos-logo.png" alt="Leidos" width="180"/>
+  <img src="Figures/spacer.png" width="25"/>
+
+  <a href="https://www.leidos.com/" target="_blank">
+    <img src="Figures/Leidos-logo.png" alt="Leidos" width="140"/>
   </a>
+
+  <img src="Figures/spacer.png" width="25"/>
 
   <a href="https://pitthexai.github.io/" target="_blank">
-    <img src="Figures/Pitthexai_logo.png" alt="HexAI" width="190"/>
+    <img src="Figures/Pitthexai_logo.png" alt="HexAI" width="150"/>
   </a>
-
 </p>
-
 
 <p align="center">
   <a href="https://pitthexai.github.io/index.html" target="_blank">
