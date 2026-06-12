@@ -8,7 +8,7 @@
 - [AI Summer School Overview Video](#ai-summer-school-overview-video)
 - [Acknowledgements](#acknowledgements)
 - [Link to Download Liner.ai](#link-to-download-linerai)
-- [Organized By](Organized-By)
+- [Organized By](#Organized-By)
 
 
 
@@ -92,7 +92,7 @@ https://liner.ai
   </a>
 
   <a href="https://cpace.pitt.edu/" target="_blank">
-    <img src="Figures/cpace.png" alt="CPACE" width="200"/>
+    <img src="Figures/cpace.png" alt="CPACE" width="190"/>
   </a>
 
   <a href="https://www.leidos.com/" target="_blank">
