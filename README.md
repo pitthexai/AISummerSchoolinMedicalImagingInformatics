@@ -88,7 +88,7 @@ https://liner.ai
 
 <p align="center">
   <a href="https://www.shrs.pitt.edu/" target="_blank">
-    <img src="Figures/shrs.png" alt="SHRS" width="220"/>
+    <img src="Figures/shrs.png" alt="SHRS" width="240"/>
   </a>
 
   <a href="https://cpace.pitt.edu/" target="_blank">
