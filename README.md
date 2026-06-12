@@ -92,7 +92,7 @@ https://liner.ai
   </a>
 
   <a href="https://cpace.pitt.edu/" target="_blank">
-    <img src="Figures/cpace.png" alt="CPACE" width="220"/>
+    <img src="Figures/cpace.png" alt="CPACE" width="200"/>
   </a>
 
   <a href="https://www.leidos.com/" target="_blank">
@@ -100,7 +100,7 @@ https://liner.ai
   </a>
 
   <a href="https://pitthexai.github.io/" target="_blank">
-    <img src="Figures/Pitthexai_logo.png" alt="HexAI" width="220"/>
+    <img src="Figures/Pitthexai_logo.png" alt="HexAI" width="200"/>
   </a>
 </p>
 
